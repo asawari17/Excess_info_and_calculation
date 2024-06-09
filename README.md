@@ -4,5 +4,5 @@
 
 You can find the interactive figures at: 
 
-Here is an [interactive figure](https://github.com/asawari17/Excess_info_and_calculation/blob/main/graph_features_umap.html).
+Here is an <a href="https://github.com/asawari17/Excess_info_and_calculation/blob/main/graph_features_umap.html" target="_blank">interactive figure</a>.
 

@@ -2,10 +2,10 @@ import os
 import pandas as pd
 
 # Path to the folder containing all the folders with text files
-main_folder = '/Users/asawaripagare/Desktop/all_data/'
+main_folder = '/path/to/data/all_data/'
 
 # Path to the output Excel file
-output_file = '/Users/asawaripagare/Desktop/i_features.xlsx'
+output_file = '/path/i_features.xlsx'
 
 # Define a mapping of R1_1 values to numbers
 r1_1_mapping = {
